@@ -1,3 +1,5 @@
+/* MIT license */
+
 #include "internal.h"
 #include "debug.h"
 #include "plugin.h"
@@ -58,7 +60,7 @@ static PurplePluginInfo info =
 	                                                  /**  description    */
 	N_("Blocks IM windows received from 'AOL System Msg'."),
 	"Chris Oakman <chris@oakmac.com>",        /**< author         */
-	"",                                     /**< homepage       */
+	"http://github.com/oakmac/Pidgin-Plugin--Block-AOL-System-Msg/",                                     /**< homepage       */
 
 	plugin_load,                                      /**< load           */
 	plugin_unload,                                    /**< unload         */

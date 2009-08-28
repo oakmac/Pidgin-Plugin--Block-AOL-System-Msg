@@ -1,1 +1,9 @@
 This is a very simple plugin for Pidgin that blocks any window messages sent from "AOL System Msg".
+
+.so file was compiled on 64 bit linux
+
+MIT license, do what you wish
+
+-- chris
+   chris@oakmac.com
+   http://github.com/oakmac/Pidgin-Plugin--Block-AOL-System-Msg/
